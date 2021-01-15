@@ -72,6 +72,9 @@ h3{
     .last-img img{
         height: 200px;
         width: auto;
-        
-    }    
+    
+    } 
+    .text-change{
+        text-align: center;
+    }   
 }
