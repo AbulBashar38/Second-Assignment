@@ -57,6 +57,7 @@ h3{
     background-image: linear-gradient(#9fb73e,#89a41f);
     border: none;
 }
+
 @media (max-width:992px){
     .card-jacket-img img{
         height: 250px;
@@ -76,5 +77,11 @@ h3{
     } 
     .text-change{
         text-align: center;
-    }   
+    }
+      
+}
+@media (min-width:992px){
+    #resolved img{
+        width: 100%;
+    } 
 }
