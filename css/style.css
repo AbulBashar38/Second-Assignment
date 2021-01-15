@@ -57,3 +57,21 @@ h3{
     background-image: linear-gradient(#9fb73e,#89a41f);
     border: none;
 }
+@media (max-width:992px){
+    .card-jacket-img img{
+        height: 250px;
+        width: auto;
+        padding: 1em;}
+    .card-jacket-img-red img{
+        height: 250px;
+        width: auto;
+        padding: 1em;}
+    .revers-flex{
+        flex-direction: column-reverse;
+    }
+    .last-img img{
+        height: 200px;
+        width: auto;
+        
+    }    
+}
