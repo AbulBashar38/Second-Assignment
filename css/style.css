@@ -1,0 +1,59 @@
+.top-title{
+    font-size: 70px;
+    color: #fabe4c;
+}
+.top-title-color{
+    color: #363958;
+}
+p{
+    font-size: large;
+    font-family: 'Cuprum', sans-serif;
+}
+h1{
+    font-family: 'Changa', sans-serif;
+}
+h5{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px; 
+}
+.custom-btn{
+    background-image: linear-gradient(#9fb73e,#89a41f);
+    border: none;
+    width: 150px;
+    height: 60px;
+    
+}
+h3{
+    font-family: 'Changa', sans-serif;
+    color: #363958;
+    font-size: 40px;
+}
+.price{
+    color: #fabe4c;
+}
+.card-jacket-img img{
+    height: 350px;
+    width: auto;
+    padding: 1em;
+    
+}
+.card-jacket-img-red img{
+    height: 350px;
+    width: auto;
+    padding: 1em;
+}
+.card-jacket-img, .card-jacket-img-red{
+    background-color: rgb(230, 230, 230);
+    border-radius: 20px;
+}
+.card-body-modify{
+    border: none;
+}
+.card-footer-modify{
+    border: none;
+    background-color: white;
+}
+.card-btn-modify{
+    background-image: linear-gradient(#9fb73e,#89a41f);
+    border: none;
+}
